@@ -1,0 +1,1 @@
+# sveltekit-adapter-node-bug-demo
